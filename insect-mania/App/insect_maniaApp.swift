@@ -11,7 +11,7 @@ import SwiftUI
 struct insect_maniaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }

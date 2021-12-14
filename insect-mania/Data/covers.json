@@ -1,30 +1,43 @@
 [
   {
     "id" : 1,
-    "name" : "cover-jaden"
+    "name" : "cover-cricket"
   },
   {
     "id" : 2,
-    "name" : "cover-jbalvin"
+    "name" : "cover-bee"
   },
   {
     "id" : 3,
-    "name" : "cover-maluma"
+    "name" : "cover-spider"
   },
   {
     "id" : 4,
-    "name" : "cover-selenagomez"
+    "name" : "cover-ants"
   },
   {
     "id" : 5,
-    "name" : "cover-snoop"
+    "name" : "cover-roaches"
   },
   {
     "id" : 6,
-    "name" : "cover-will"
+    "name" : "cover-centipedes"
   },
   {
     "id" : 7,
-    "name" : "cover-travis"
+    "name" : "cover-mosquitos"
+  },
+  {
+    "id" : 8,
+    "name" : "cover-cicadas"
+  },
+  {
+    "id" : 9,
+    "name" : "cover-ticks"
+  },
+  {
+    "id" : 10,
+    "name" : "cover-beetles"
   }
+  
 ]

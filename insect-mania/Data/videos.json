@@ -1,37 +1,53 @@
 [
   {
-    "id" : "selenagomez",
-    "name" : "Selena Gomez",
-    "headline" : "Cheetah walking in the savannah"
+    "id" : "10",
+    "name" : "Cricket",
+    "headline" : "This is how a cricket looks"
   },
   {
-    "id" : "snoop",
-    "name" : "Snoop Dogg",
-    "headline" : "African elephant with calf walking"
+    "id" : "9",
+    "name" : "Bee",
+    "headline" : "This is how a bee looks"
   },
   {
-    "id" : "jbalvin",
-    "name" : "Jbalvin",
-    "headline" : "Lonely giraffe walking in the savannah"
+    "id" : "8",
+    "name" : "Spider",
+    "headline" : "This is how a spider looks"
   },
   {
-    "id" : "maluma",
-    "name" : "Maluma",
-    "headline" : "Western lowland adult gorilla walking"
+    "id" : "7",
+    "name" : "Ant",
+    "headline" : "This is how a ant looks"
   },
   {
-    "id" : "travis",
-    "name" : "Travis",
-    "headline" : "A cow hippo and her calf together in the water"
+    "id" : "6",
+    "name" : "Roaches",
+    "headline" : "This is how a Roaches looks"
   },
   {
-    "id" : "will",
-    "name" : "Will Smith",
-    "headline" : "African lioness slowly walking on the African savannah"
+    "id" : "5",
+    "name" : "Centipedes",
+    "headline" : "This is how a centipedes looks"
   },
   {
-    "id" : "jaden",
-    "name" : "Jaden Smith",
-    "headline" : "Close-up of a growling African lion"
+    "id" : "4",
+    "name" : "Mosquitos",
+    "headline" : "This is how a mosquitos looks"
+  },
+  
+  {
+    "id" : "3",
+    "name" : "Cicadas",
+    "headline" : "This is how a cicadas looks"
+  },
+  {
+    "id" : "2",
+    "name" : "Ticks",
+    "headline" : "This is how a cricket looks"
+  },
+  {
+    "id" : "beetle",
+    "name" : "Beetle",
+    "headline" : "This is how a beetle looks"
   }
 ]
