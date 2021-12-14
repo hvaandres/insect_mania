@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "name" : "cover-jaden"
+  },
+  {
+    "id" : 2,
+    "name" : "cover-jbalvin"
+  },
+  {
+    "id" : 3,
+    "name" : "cover-maluma"
+  },
+  {
+    "id" : 4,
+    "name" : "cover-selenagomez"
+  },
+  {
+    "id" : 5,
+    "name" : "cover-snoop"
+  },
+  {
+    "id" : 6,
+    "name" : "cover-will"
+  },
+  {
+    "id" : 7,
+    "name" : "cover-travis"
+  }
+]
