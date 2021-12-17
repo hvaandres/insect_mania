@@ -1,43 +1,43 @@
 [
   {
     "id" : 1,
-    "name" : "cover-cricket"
+    "name" : "cover_cricket"
   },
   {
     "id" : 2,
-    "name" : "cover-bee"
+    "name" : "cover_bee"
   },
   {
     "id" : 3,
-    "name" : "cover-spider"
+    "name" : "cover_spider"
   },
   {
     "id" : 4,
-    "name" : "cover-ants"
+    "name" : "cover_ant"
   },
   {
     "id" : 5,
-    "name" : "cover-roaches"
+    "name" : "cover_roaches"
   },
   {
     "id" : 6,
-    "name" : "cover-centipedes"
+    "name" : "cover_centipedes"
   },
   {
     "id" : 7,
-    "name" : "cover-mosquitos"
+    "name" : "cover_mosquitos"
   },
   {
     "id" : 8,
-    "name" : "cover-cicadas"
+    "name" : "cover_cicadas"
   },
   {
     "id" : 9,
-    "name" : "cover-ticks"
+    "name" : "cover_ticks"
   },
   {
     "id" : 10,
-    "name" : "cover-beetles"
+    "name" : "cover_beetles"
   }
   
 ]

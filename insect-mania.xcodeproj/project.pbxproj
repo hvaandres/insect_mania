@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		05168E9627695D91004D72A2 /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05168E9527695D91004D72A2 /* CoverImageView.swift */; };
+		057B2E99276D412400318FF8 /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057B2E98276D412400318FF8 /* CoverImageModel.swift */; };
+		057B2E9C276D41C800318FF8 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057B2E9B276D41C800318FF8 /* CodableBundleExtension.swift */; };
+		057B2E9E276D473100318FF8 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057B2E9D276D473100318FF8 /* AnimalListItemView.swift */; };
+		057B2EA0276D4AE400318FF8 /* InsectModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057B2E9F276D4AE400318FF8 /* InsectModel.swift */; };
 		05B4D2F32768124900E8753E /* insect_maniaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4D2F22768124900E8753E /* insect_maniaApp.swift */; };
 		05B4D2F52768124900E8753E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4D2F42768124900E8753E /* ContentView.swift */; };
 		05B4D2F72768124C00E8753E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05B4D2F62768124C00E8753E /* Assets.xcassets */; };
@@ -34,6 +38,10 @@
 
 /* Begin PBXFileReference section */
 		05168E9527695D91004D72A2 /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
+		057B2E98276D412400318FF8 /* CoverImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
+		057B2E9B276D41C800318FF8 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
+		057B2E9D276D473100318FF8 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
+		057B2E9F276D4AE400318FF8 /* InsectModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsectModel.swift; sourceTree = "<group>"; };
 		05B4D2EF2768124900E8753E /* insect-mania.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "insect-mania.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		05B4D2F22768124900E8753E /* insect_maniaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = insect_maniaApp.swift; sourceTree = "<group>"; };
 		05B4D2F42768124900E8753E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,8 +83,26 @@
 			isa = PBXGroup;
 			children = (
 				05168E9527695D91004D72A2 /* CoverImageView.swift */,
+				057B2E9D276D473100318FF8 /* AnimalListItemView.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		057B2E97276D410300318FF8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				057B2E98276D412400318FF8 /* CoverImageModel.swift */,
+				057B2E9F276D4AE400318FF8 /* InsectModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		057B2E9A276D41AC00318FF8 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				057B2E9B276D41C800318FF8 /* CodableBundleExtension.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		05B4D2E62768124800E8753E = {
@@ -98,6 +124,8 @@
 		05B4D2F12768124900E8753E /* insect-mania */ = {
 			isa = PBXGroup;
 			children = (
+				057B2E9A276D41AC00318FF8 /* Extension */,
+				057B2E97276D410300318FF8 /* Model */,
 				05168E9427695D52004D72A2 /* View */,
 				05B4D31E2768255F00E8753E /* Info.plist */,
 				05B4D315276821A900E8753E /* Data */,
@@ -243,12 +271,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				05B4D2F52768124900E8753E /* ContentView.swift in Sources */,
+				057B2E9E276D473100318FF8 /* AnimalListItemView.swift in Sources */,
 				05B4D327276828DB00E8753E /* MainView.swift in Sources */,
 				05168E9627695D91004D72A2 /* CoverImageView.swift in Sources */,
+				057B2E99276D412400318FF8 /* CoverImageModel.swift in Sources */,
 				05B4D323276828A300E8753E /* MapView.swift in Sources */,
 				05B4D2F32768124900E8753E /* insect_maniaApp.swift in Sources */,
 				05B4D3212768287200E8753E /* VideoListView.swift in Sources */,
 				05B4D325276828BD00E8753E /* GalleryView.swift in Sources */,
+				057B2EA0276D4AE400318FF8 /* InsectModel.swift in Sources */,
+				057B2E9C276D41C800318FF8 /* CodableBundleExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
