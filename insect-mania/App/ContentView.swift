@@ -12,7 +12,7 @@ struct ContentView: View {
         // Properties
         
         let animals: [Animal] =
-        Bundle.main.decode("artists.json")
+            Bundle.main.decode("animals.json")
         
         //Body
         
@@ -34,13 +34,11 @@ struct ContentView: View {
 }
     
 
- 
-
 // MARK: - PREVIEW
 
 struct ContentView_Previews: PreviewProvider {
   static var previews: some View {
     ContentView()
-      .previewDevice("iPhone 12 Pro")
+      .previewDevice("iPhone 13 Pro")
   }
 }
