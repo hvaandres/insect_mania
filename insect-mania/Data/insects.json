@@ -1,0 +1,192 @@
+[
+    {
+      "id" : "cricket",
+      "name" : "Cricket",
+      "headline" : "Crickets are Orthopteran insects which are related to bush crickets, and, more distantly, to grasshoppers.",
+      "description" : "In older literature, such as Imms,'crickets' were placed at the family level (i.e. Gryllidae), but contemporary authorities including Otte now place them in the superfamily Grylloidea.[1] The word has been used in combination to describe more distantly related taxa[3] in the suborder Ensifera, such as king crickets and mole crickets. They have mainly cylindrically-shaped bodies, round heads, and long antennae. Behind the head is a smooth, robust pronotum. The abdomen ends in a pair of long cerci; females have a long, cylindrical ovipositor. Diagnostic features include legs with 3-segmented tarsi; as with many Orthoptera, the hind legs have enlarged femora, providing power for jumping. The front wings are adapted as tough, leathery elytra, and some crickets chirp by rubbing parts of these together. The hind wings are membranous and folded when not in use for flight; many species, however, are flightless. The largest members of the family are the bull crickets, Brachytrupes, which are up to 5 cm (2 in) long. Crickets are distributed all around the world except at latitudes 55° or higher, with the greatest diversity being in the tropics. They occur in varied habitats from grassland, bushes, and forests to marshes, beaches, and caves. Crickets are mainly nocturnal, and are best known for the loud, persistent, chirping song of males trying to attract females, although some species are mute. The singing species have good hearing, via the tympana on the tibiae of the front legs. Crickets often appear as characters in literature. The Talking Cricket features in Carlo Collodi's 1883 children's book, The Adventures of Pinocchio, and in films based on the book. The insect is central to Charles Dickens's 1845 The Cricket on the Hearth and George Selden's 1960 The Cricket in Times Square. Crickets are celebrated in poems by William Wordsworth, John Keats, and Du Fu. They are kept as pets in countries from China to Europe, sometimes for cricket fighting. Crickets are efficient at converting their food into body mass, making them a candidate for food production. They are used as human food in Southeast Asia, where they are sold deep-fried in markets as snacks. They are also used to feed carnivorous pets and zoo animals. In Brazilian folklore, crickets feature as omens of various events.",
+      "link" : "https://en.wikipedia.org/wiki/Circket_(insect)",
+      "image" : "cricket",
+      "gallery" : [
+        "crickets_1",
+        "crickets_2",
+        "cricket_3",
+        "cricket_4"
+      ],
+      "fact" : [
+        "Crickets are small to medium-sized insects with mostly cylindrical, somewhat vertically flattened bodies. ",
+        "At the tip of the abdomen is a pair of long cerci (paired appendages on rearmost segment), and in females, the ovipositor is cylindrical, long and narrow, smooth and shiny.",
+        "Crickets have a cosmopolitan distribution, being found in all parts of the world with the exception of cold regions at latitudes higher than about 55° North and South."
+      ]
+    },
+    {
+      "id" : "bee",
+      "name" : "Bee",
+      "headline" : "Bees are insects with wings closely related to wasps and ants, known for their role in pollination and, in the case of the best-known bee species, the western honey bee, for producing honey. Bees are a monophyletic lineage within the superfamily Apoidea.",
+      "description" : "They are presently considered a clade, called Anthophila. There are over 16,000 known species of bees in seven recognized biological families. Some species – including honey bees, bumblebees, and stingless bees – live socially in colonies while most species (>90%) – including mason bees, carpenter bees, leafcutter bees, and sweat bees – are solitary. Bees are found on every continent except for Antarctica, in every habitat on the planet that contains insect-pollinated flowering plants. The most common bees in the Northern Hemisphere are the Halictidae, or sweat bees, but they are small and often mistaken for wasps or flies. Bees range in size from tiny stingless bee species, whose workers are less than 2 millimetres (0.08 in) long,[3] to Megachile pluto, the largest species of leafcutter bee, whose females can attain a length of 39 millimetres (1.54 in). Bees feed on nectar and pollen, the former primarily as an energy source and the latter primarily for protein and other nutrients. Most pollen is used as food for their larvae. Vertebrate predators of bees include primates and birds such as bee-eaters; insect predators include beewolves and dragonflies. Bee pollination is important both ecologically and commercially, and the decline in wild bees has increased the value of pollination by commercially managed hives of honey bees. The analysis of 353 wild bee and hoverfly species across Britain from 1980 to 2013 found the insects have been lost from a quarter of the places they inhabited in 1980. Human beekeeping or apiculture (meliponiculture for stingless bees) has been practised for millennia, since at least the times of Ancient Egypt and Ancient Greece. Bees have appeared in mythology and folklore, through all phases of art and literature from ancient times to the present day, although primarily focused in the Northern Hemisphere where beekeeping is far more common. In Mesoamerica, the Mayans have practiced large-scale intensive meliponiculture since pre-Columbian times.[3]",
+      "link" : "https://en.wikipedia.org/wiki/Bee",
+      "image" : "bees",
+      "gallery" : [
+        "bee_1",
+        "bee_2",
+        "bee_3",
+        "bee_4"
+      ],
+      "fact" : [
+        "The ancestors of bees were wasps in the family Crabronidae, which were predators of other insects. The switch from insect prey to pollen may have resulted from the consumption of prey insects which were flower visitors and were partially covered with pollen when they were fed to the wasp larvae.",
+        "The highly eusocial corbiculate Apidae appeared roughly 87 Mya, and the Allodapini (within the Apidae) around 53 Mya.[11] The Colletidae appear as fossils only from the late Oligocene (~25 Mya) to early Miocene.",
+        "The earliest animal-pollinated flowers were shallow, cup-shaped blooms pollinated by insects such as beetles, so the syndrome of insect pollination was well established before the first appearance of bees.."
+      ]
+    },
+    {
+      "id" : "spider",
+      "name" : "Spider",
+      "headline" : "Spiders (order Araneae) are air-breathing arthropods that have eight legs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk.",
+      "description" : "They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms.[4][5] Spiders are found worldwide on every continent except for Antarctica, and have become established in nearly every land habitat. As of August 2021, 49,623 spider species in 129 families have been recorded by taxonomists.[1] However, there has been dissension within the scientific community as to how all these families should be classified, as evidenced by the over 20 different classifications that have been proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the prosoma, or cephalothorax, and opisthosoma, or abdomen, and joined by a small, cylindrical pedicel, however, as there is currently neither paleontological nor embryological evidence that spiders ever had a separate thorax-like division, there exists an argument against the validity of the term cephalothorax, which means fused cephalon (head) and the thorax. Similarly, arguments can be formed against use of the term abdomen, as the opisthosoma of all spiders contains a heart and respiratory organs, organs atypical of an abdomen. Unlike insects, spiders do not have antennae. In all except the most primitive group, the Mesothelae, spiders have the most centralized nervous systems of all arthropods, as all their ganglia are fused into one mass in the cephalothorax. Unlike most arthropods, spiders have no extensor muscles in their limbs and instead extend them by hydraulic pressure. Their abdomens bear appendages that have been modified into spinnerets that extrude silk from up to six types of glands. Spider webs vary widely in size, shape and the amount of sticky thread used. It now appears that the spiral orb web may be one of the earliest forms, and spiders that produce tangled cobwebs are more abundant and diverse than orb-weaver spiders. Spider-like arachnids with silk-producing spigots appeared in the Devonian period about 386 million years ago, but these animals apparently lacked spinnerets. True spiders have been found in Carboniferous rocks from 318 to 299 million years ago, and are very similar to the most primitive surviving suborder, the Mesothelae. The main groups of modern spiders, Mygalomorphae and Araneomorphae, first appeared in the Triassic period, before 200 million years ago. The species Bagheera kiplingi was described as herbivorous in 2008, but all other known species are predators, mostly preying on insects and on other spiders, although a few large species also take birds and lizards. It is estimated that the world's 25 million tons of spiders kill 400–800 million tons of prey per year. Spiders use a wide range of strategies to capture prey: trapping it in sticky webs, lassoing it with sticky bolas, mimicking the prey to avoid detection, or running it down. Most detect prey mainly by sensing vibrations, but the active hunters have acute vision, and hunters of the genus Portia show signs of intelligence in their choice of tactics and ability to develop new ones. Spiders' guts are too narrow to take solids, so they liquefy their food by flooding it with digestive enzymes. They also grind food with the bases of their pedipalps, as arachnids do not have the mandibles that crustaceans and insects have. To avoid being eaten by the females, which are typically much larger, male spiders identify themselves to potential mates by a variety of complex courtship rituals. Males of most species survive a few matings, limited mainly by their short life spans. Females weave silk egg-cases, each of which may contain hundreds of eggs. Females of many species care for their young, for example by carrying them around or by sharing food with them. A minority of species are social, building communal webs that may house anywhere from a few to 50,000 individuals. Social behavior ranges from precarious toleration, as in the widow spiders, to co-operative hunting and food-sharing. Although most spiders live for at most two years, tarantulas and other mygalomorph spiders can live up to 25 years in captivity. While the venom of a few species is dangerous to humans, scientists are now researching the use of spider venom in medicine and as non-polluting pesticides. Spider silk provides a combination of lightness, strength and elasticity that is superior to that of synthetic materials, and spider silk genes have been inserted into mammals and plants to see if these can be used as silk factories. As a result of their wide range of behaviors, spiders have become common symbols in art and mythology symbolizing various combinations of patience, cruelty and creative powers. An irrational fear of spiders is called arachnophobia.",
+      "link" : "https://en.wikipedia.org/wiki/Spider",
+      "image" : "spider",
+      "gallery" : [
+        "spider_1",
+        "spider_2",
+        "spider_3",
+        "spider_4"
+      ],
+      "fact" : [
+        "Spiders are chelicerates and therefore arthropods.",
+        "Like other arthropods, spiders are coelomates in which the coelom is reduced to small areas around the reproductive and excretory systems. Its place is largely taken by a hemocoel, a cavity that runs most of the length of the body and through which blood flows.",
+        "Uniquely among chelicerates, the final sections of spiders' chelicerae are fangs, and the great majority of spiders can use them to inject venom into prey from venom glands in the roots of the chelicerae."
+      ]
+    },
+    {
+      "id" : "ants",
+      "name" : "Ants",
+      "headline" : "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera.",
+      "description" : "Ants appear in the fossil record across the globe in considerable diversity during the latest Early Cretaceous and early Late Cretaceous, suggesting an earlier origin. Ants evolved from vespoid wasp ancestors in the Cretaceous period, and diversified after the rise of flowering plants. More than 13,800 of an estimated total of 22,000 species have been classified. They are easily identified by their geniculate (elbowed) antennae and the distinctive node-like structure that forms their slender waists. Ants form colonies that range in size from a few dozen predatory individuals living in small natural cavities to highly organised colonies that may occupy large territories and consist of millions of individuals. Larger colonies consist of various castes of sterile, wingless females, most of which are workers (ergates), as well as soldiers (dinergates) and other specialised groups. Nearly all ant colonies also have some fertile males called 'drones' and one or more fertile females called 'queens' (gynes). The colonies are described as superorganisms because the ants appear to operate as a unified entity, collectively working together to support the colony. Ants have colonised almost every landmass on Earth. The only places lacking indigenous ants are Antarctica and a few remote or inhospitable islands. Ants thrive in most ecosystems and may form 15–25% of the terrestrial animal biomass. Their success in so many environments has been attributed to their social organisation and their ability to modify habitats, tap resources, and defend themselves. Their long co-evolution with other species has led to mimetic, commensal, parasitic, and mutualistic relationships. Ant societies have division of labour, communication between individuals, and an ability to solve complex problems. These parallels with human societies have long been an inspiration and subject of study. Many human cultures make use of ants in cuisine, medication, and rites. Some species are valued in their role as biological pest control agents. Their ability to exploit resources may bring ants into conflict with humans, however, as they can damage crops and invade buildings. Some species, such as the red imported fire ant (Solenopsis invicta), are regarded as invasive species, establishing themselves in areas where they have been introduced accidentally.",
+      "link" : "https://en.wikipedia.org/wiki/Ant",
+      "image" : "ants",
+      "gallery" : [
+        "ant_1",
+        "ant_2",
+        "ant_3",
+        "ant_4"
+      ],
+      "fact" : [
+        "The family Formicidae belongs to the order Hymenoptera, which also includes sawflies, bees, and wasps. Ants evolved from a lineage within the stinging wasps, and a 2013 study suggests that they are a sister group of the Apoidea.",
+        "Ants are found on all continents except Antarctica, and only a few large islands, such as Greenland, Iceland, parts of Polynesia and the Hawaiian Islands lack native ant species.",
+        "Ants are distinct in their morphology from other insects in having geniculate (elbowed) antennae, metapleural glands, and a strong constriction of their second abdominal segment into a node-like petiole."
+      ]
+    },
+    {
+      "id" : "roaches",
+      "name" : "Roaches",
+      "headline" : "Cockroaches (or roaches) are insects of the order Blattodea, which also includes termites. About 30 cockroach species out of 4,600 are associated with human habitats. Some species are well-known as pests.",
+      "description" : "The cockroaches are an ancient group, with ancestors originating during the Carboniferous period, some 300-350 million years ago. Those early ancestors, however, lacked the internal ovipositors of modern roaches. Cockroaches are somewhat generalized insects lacking special adaptations (such as the sucking mouthparts of aphids and other true bugs); they have chewing mouthparts and are likely among the most primitive of living Neopteran insects. They are common and hardy insects capable of tolerating a wide range of climates, from Arctic cold to tropical heat. Tropical cockroaches are often much larger than temperate species. Contrary to popular belief, extinct cockroach relatives (Blattoptera) and 'roachoids' such as the Carboniferous Archimylacris and the Permian Apthoroblattina were not as large as the biggest modern species. Some species, such as the gregarious German cockroach, have an elaborate social structure involving common shelter, social dependence, information transfer and kin recognition. Cockroaches have appeared in human culture since classical antiquity. They are popularly depicted as dirty pests, although the majority of species are inoffensive and live in a wide range of habitats around the world.",
+      "link" : "https://en.wikipedia.org/wiki/Cockroach",
+      "image" : "roaches",
+      "gallery" : [
+        "Roaches_1",
+        "Roaches_2",
+        "Roaches_3",
+        "Roaches_4"
+      ],
+      "fact" : [
+        "Cockroaches are members of the Superorder Dictyoptera, which includes the termites and mantids, a group of insects once thought to be separate from cockroaches.",
+        "Most species of cockroach are about the size of a thumbnail, but several species are larger. The world's heaviest cockroach is the Australian giant burrowing cockroach Macropanesthia rhinoceros, which can reach 8 centimetres (3 in) in length and weigh up to 35 grams (1.2 oz).",
+        "Cockroaches are abundant throughout the world and live in a wide range of environments, especially in the tropics and subtropics."
+      ]
+    },
+    {
+      "id" : "centipedes",
+      "name" : "Centipedes",
+      "headline" : "Centipedes (from the New Latin prefix centi-, 'hundred', and the Latin word pes, pedis, 'foot') are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, lip, and New Latin suffix -poda, 'foot', describing the forcipules) of the subphylum Myriapoda, an arthropod group which also includes millipedes and other multi-legged creatures.",
+      "description" : "Centipedes are elongated metameric creatures with one pair of legs per body segment. Most centipedes are venomous and can inflict painful bites, injecting their venom through pincer-like appendages known as forcipules. Despite the name, centipedes can have a varying number of legs, ranging from 30 to 354. Centipedes always have an odd number of pairs of legs. Therefore, no centipede has exactly 100 legs. Like spiders and scorpions, centipedes are predominantly carnivorous. Their size can range from a few millimetres in the smaller lithobiomorphs and geophilomorphs to about 30 cm (12 in) in the largest scolopendromorphs. Centipedes can be found in a wide variety of environments. They normally have a drab coloration combining shades of brown and red. Cavernicolous (cave-dwelling) and subterranean species may lack pigmentation, while many tropical scolopendromorphs have bright aposematic colors. Worldwide, an estimated 8,000 species of centipedes are thought to exist, of which 3,000 have been described. Centipedes have a wide geographical range, even reaching beyond the Arctic Circle.[4] They are found in an array of terrestrial habitats from tropical rainforests to deserts. Within these habitats, centipedes require a moist microhabitat because they lack the waxy cuticle of insects and arachnids, therefore causing them to rapidly lose water.[6] Accordingly, they are found in soil and leaf litter, under stones and dead wood, and inside logs. Centipedes are among the largest terrestrial invertebrate predators, and often contribute significantly to the invertebrate predatory biomass in terrestrial ecosystems.",
+      "link" : "https://en.wikipedia.org/wiki/Giraffe",
+      "image" : "centipedes",
+      "gallery" : [
+        "Centipedes_1",
+        "Centipedes_2",
+        "Centipedes_3",
+        "Centipedes_4"
+      ],
+      "fact" : [
+        "Centipedes have a rounded or flattened head, bearing a pair of antennae at the forward margin. They have a pair of elongated mandibles, and two pairs of maxillae.",
+        "Many species of centipedes lack eyes, but some possess a variable number of ocelli, which are sometimes clustered together to form true compound eyes.",
+        "The differences between millipedes and centipedes are a common question from the general public."
+      ]
+    },
+    {
+      "id" : "mosquitoes",
+      "name" : "Mosquitoes",
+      "headline" : "Mosquitoes are members of a group of almost 3,600 species of small flies within the family Culicidae",
+      "description" : " The word 'mosquito' (formed by mosca and diminutive -ito)[2] is Spanish and Portuguese for 'little fly'. Mosquitoes have a slender segmented body, one pair of wings, one pair of halteres, three pairs of long hair-like legs, and elongated mouthparts. The mosquito life cycle consists of egg, larva, pupa, and adult stages. Eggs are laid on the water surface; they hatch into motile larvae that feed on aquatic algae and organic material. These larvae are important food sources for many freshwater animals, such as dragonfly nymphs, many fish, and some birds such as ducks. The adult females of most species have tube-like mouthparts (called a proboscis) that can pierce the skin of a host and feed on blood, which contains protein and iron needed to produce eggs. Thousands of mosquito species feed on the blood of various hosts ⁠— vertebrates, including mammals, birds, reptiles, amphibians, and some fish; along with some invertebrates, primarily other arthropods. The mosquito's saliva is transferred to the host during the bite, and can cause an itchy rash. In addition, many species can ingest pathogens while biting, and transmit them to future hosts. In this way, mosquitoes are important vectors of parasitic diseases such as malaria and filariasis, and arboviral diseases such as yellow fever, Chikungunya, West Nile, dengue fever, and Zika. By transmitting diseases, mosquitoes cause the deaths of more people than any other animal taxon: over 700,000 each year.It has been claimed that almost half of the people who have ever lived have died of mosquito-vectored disease, but this claim is disputed, with more conservative estimates placing the death toll closer to 5% of all humans.[citation needed] Mosquitoes cannot live or function properly when the air temperature is below 10 degrees Celsius (50 degrees Fahrenheit). They are mostly active at 15-25 degrees Celsius (60–80 degrees Fahrenheit).",
+      "link" : "https://en.wikipedia.org/wiki/Mosquitoes",
+      "image" : "mosquitos",
+      "gallery" : [
+        "Mosquitoes_1",
+        "Mosquitoes_2",
+        "Mosquitoes_3",
+        "Mosquitoes_4"
+      ],
+      "fact" : [
+        "The oldest known mosquitoes are known from amber dating to the Late Cretaceous.",
+        "The mosquito Anopheles gambiae is currently undergoing speciation into the M(opti) and S(avanah) molecular forms.",
+        "As true flies, mosquitoes have one pair of wings, with distinct scales on the surface. Their wings are long and narrow, as are their long, thin legs."
+      ]
+    },
+    {
+      "id" : "cicadas",
+      "name" : "Cicadas",
+      "headline" : "The cicadas are a superfamily, the Cicadoidea, of insects in the order Hemiptera (true bugs).",
+      "description" : "They are in the suborder Auchenorrhyncha,[a] along with smaller jumping bugs such as leafhoppers and froghoppers. The superfamily is divided into two families, the Tettigarctidae, with two species in Australia, and the Cicadidae, with more than 3,000 species described from around the world; many species remain undescribed. Cicadas have prominent eyes set wide apart, short antennae, and membranous front wings. They have an exceptionally loud song, produced in most species by the rapid buckling and unbuckling of drumlike tymbals. The earliest known fossil Cicadomorpha appeared in the Upper Permian period; extant species occur all around the world in temperate to tropical climates. They typically live in trees, feeding on watery sap from xylem tissue, and laying their eggs in a slit in the bark. Most cicadas are cryptic. The vast majority of species are active during the day as adults, with some calling at dawn or dusk. Only a rare few species are known to be nocturnal. One exclusively North American genus, Magicicada (the periodical cicadas), which spend most of their lives as underground nymphs, emerge in predictable intervals of 13 or 17 years, depending on the species and the location. The unusual duration and synchronization of their emergence may reduce the number of cicadas lost to predation, both by making them a less reliably available prey (so that any predator that evolved to depend on cicadas for sustenance might starve waiting for their emergence), and by emerging in such huge numbers that they will satiate any remaining predators before losing enough of their number to threaten their survival as a species. The annual cicadas are species that emerge every year. Though these cicadas' life cycles can vary from 1–9 or more years as underground larvae, their emergence above ground as adults is not synchronized, so some members of each species appear every year. Cicadas have been featured in literature since the time of Homer's Iliad and as motifs in art from the Chinese Shang dynasty. They have also been used in myth and folklore as symbols of carefree living and immortality. The cicada is also mentioned in Hesiod's Shield (ll.393–394), in which it is said to sing when millet first ripens. Cicadas are eaten by humans in various countries, including China, where the nymphs are served deep-fried in Shandong cuisine.",
+      "link" : "https://en.wikipedia.org/wiki/Cicadas",
+      "image" : "cicadas",
+      "gallery" : [
+        "Cicadas_1",
+        "Cicadas_2",
+        "Cicadas_3",
+        "Cicadas_4"
+      ],
+      "fact" : [
+        "The superfamily Cicadoidea is a sister of the Cercopoidea (the froghoppers). Cicadas are arranged into two families: the Tettigarctidae and Cicadidae.",
+        "Fossil Cicadomorpha first appeared in the Late Triassic. The superfamily Palaeontinoidea contains three families.",
+        "Cicadas are large insects made conspicuous by the courtship calls of the males. They are characterized by having three joints in their tarsi, and having small antennae with conical bases and three to six segments, including a seta at the tip."
+      ]
+    },
+    {
+      "id" : "ticks",
+      "name" : "Ticks",
+      "headline" : "Ticks (suborder Ixodida) are parasitic arachnids that are part of the mite superorder Parasitiformes. Adult ticks are approximately 3 to 5 mm in length depending on age, sex, species, and 'fullness'.",
+      "description" : "Ticks are external parasites, living by feeding on the blood of mammals, birds, and sometimes reptiles and amphibians. The timing of the origin of ticks is uncertain, though the oldest known tick fossils are from the Cretaceous period, around 100 million years old. Ticks are widely distributed around the world, especially in warm, humid climates. Ticks belong to two major families, the Ixodidae or hard ticks, and the Argasidae, or soft ticks. Nuttalliella, a genus of tick from southern Africa is the only member of the family Nuttalliellidae, and represents the most primitive living lineage of ticks. Adults have ovoid/pear-shaped bodies (idiosomas) which become engorged with blood when they feed, and eight legs. Their cephalothorax and abdomen are completely fused. In addition to having a hard shield on their dorsal surfaces, known as the scutum, hard ticks have a beak-like structure at the front containing the mouthparts, whereas soft ticks have their mouthparts on the underside of their bodies. Ticks locate potential hosts by sensing odor, body heat, moisture, and/or vibrations in the environment. Ticks have four stages to their lifecycle, namely egg, larva, nymph, and adult. Ticks belonging to the Ixodidae family undergo either a one-host, two-host, or three-host lifestyle. Argasid ticks have up to seven nymphal stages (instars), each one requiring blood ingestion, Argasid ticks undergo a multihost lifestyle. Because of their hematophagous (blood-ingesting) diets, ticks act as vectors of many serious diseases that affect humans and other animals.",
+      "link" : "https://en.wikipedia.org/wiki/Ticks",
+      "image" : "ticks",
+      "gallery" : [
+        "Ticks_1",
+        "Ticks_2",
+        "Ticks_3",
+        "Ticks_4"
+      ],
+      "fact" : [
+        "Ticks belong to the Parasitiformes, a distinctive group of mites that are separate from the main group of mites, the Acariformes. Whether the two groups are more closely related to each other than to other arachnids is uncertain, and studies often recover them as not closely related.",
+        "Ticks, like mites, belong to the subclass Acari that lack their primary somatic segmentation of the abdomen (or opisthosoma), rather these parasitic arachnids present a subsequent fusion of the abdomen with the cephalothorax (or prosoma).",
+        "Ticks are ectoparasites and consume blood to satisfy all of their nutritional requirements. They are obligate hematophages, and require blood to survive and move from one stage of life to another. Ticks can fast for long periods of time, but eventually die if unable to find a host."
+      ]
+    },
+    {
+      "id" : "beetles",
+      "name" : "Beetles",
+      "headline" : "Beetles are insects that form the order Coleoptera, in the superorder Endopterygota. Their front pair of wings are hardened into wing-cases, elytra, distinguishing them from most other insects.",
+      "description" : "The Coleoptera, with about 400,000 described species, is the largest of all orders, constituting almost 40% of described insects and 25% of all known animal life-forms; new species are discovered frequently, with estimates suggesting that there are between 0.9 to 2.1 million total species. Found in almost every habitat except the sea and the polar regions, they interact with their ecosystems in several ways: beetles often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates. Some species are serious agricultural pests, such as the Colorado potato beetle, while others such as Coccinellidae (ladybirds or ladybugs) eat aphids, scale insects, thrips, and other plant-sucking insects that damage crops. Beetles typically have a particularly hard exoskeleton including the elytra, though some such as the rove beetles have very short elytra while blister beetles have softer elytra. The general anatomy of a beetle is quite uniform and typical of insects, although there are several examples of novelty, such as adaptations in water beetles which trap air bubbles under the elytra for use while diving. Beetles are endopterygotes, which means that they undergo complete metamorphosis, with a series of conspicuous and relatively abrupt changes in body structure between hatching and becoming adult after a relatively immobile pupal stage. Some, such as stag beetles, have a marked sexual dimorphism, the males possessing enormously enlarged mandibles which they use to fight other males. Many beetles are aposematic, with bright colours and patterns warning of their toxicity, while others are harmless Batesian mimics of such insects. Many beetles, including those that live in sandy places, have effective camouflage. Beetles are prominent in human culture, from the sacred scarabs of ancient Egypt to beetlewing art and use as pets or fighting insects for entertainment and gambling. Many beetle groups are brightly and attractively coloured making them objects of collection and decorative displays. Over 300 species are used as food, mostly as larvae; species widely consumed include mealworms and rhinoceros beetle larvae. However, the major impact of beetles on human life is as agricultural, forestry, and horticultural pests. Serious pests include the boll weevil of cotton, the Colorado potato beetle, the coconut hispine beetle, and the mountain pine beetle. Most beetles, however, do not cause economic damage and many, such as the lady beetles and dung beetles are beneficial by helping to control insect pests.",
+      "link" : "https://en.wikipedia.org/wiki/Beetle",
+      "image" : "beetles",
+      "gallery" : [
+        "Beetles_1",
+        "Beetles_2",
+        "Beetles_3",
+        "Beetles_4"
+      ],
+      "fact" : [
+        "Beetles are by far the largest order of insects: the roughly 400,000 species make up about 40% of all insect species so far described, and about 25% of all animals.",
+        "The oldest known beetle is Coleopsis, from the earliest Permian (Asselian) of Germany, around 295 million years ago.",
+        "Meerkats have remarkable eyesight. They can spot birds miles away on the horizon! Vision is their most developed sense."
+      ]
+    }
+]

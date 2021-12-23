@@ -11,13 +11,13 @@ struct AnimalListItemView: View {
     
   // Properties
     
-    let animal: Animal
+    let insect: Insect
     
   // Body
     
     var body: some View {
         HStack(alignment: .center, spacing: 16) {
-            Image(animal.image)
+            Image(insect.image)
                 .resizable()
                 .scaledToFit()
                 .frame(width: 90, height: 90)
@@ -26,12 +26,12 @@ struct AnimalListItemView: View {
                 )
             
             VStack(alignment: .leading, spacing: 8) {
-                Text(animal.name)
+                Text(insect.name)
                     .font(.title2)
                     .fontWeight(.heavy)
                     .foregroundColor(.accentColor)
                 
-                Text(animal.headline)
+                Text(insect.headline)
                     .font(.footnote)
                     .multilineTextAlignment(.leading)
                     .lineLimit(2)
@@ -45,10 +45,9 @@ struct AnimalListItemView: View {
 // MARK: - PREVIEW
 
 struct AnimalListItemView_Previews: PreviewProvider {
-    static let animals: [Animal] =
-        Bundle.main.decode("animals.json")
+    static let insects: [Insect] = Bundle.main.decode("insects.json")
     static var previews: some View {
-        AnimalListItemView(animal: animals[1])
+        AnimalListItemView(insect: insects[1])
             .previewLayout(.sizeThatFits)
             .padding()
     }
