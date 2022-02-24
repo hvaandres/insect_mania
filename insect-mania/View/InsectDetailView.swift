@@ -50,6 +50,13 @@ struct InsectDetailView: View {
                 .padding(.horizontal)
                 
                 // Facts
+                Group{
+                    HeadingView(headingImage: "questionmark.circle", headingText: "Did you know?")
+                    
+                }
+                .padding(.horizontal)
+                
+                
                 // Description
                 // Map
                 // Link
