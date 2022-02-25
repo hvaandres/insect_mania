@@ -52,14 +52,42 @@ struct InsectDetailView: View {
                 // Facts
                 Group{
                     HeadingView(headingImage: "questionmark.circle", headingText: "Did you know?")
+                    InsetFactView(insect: insect)
                     
                 }
                 .padding(.horizontal)
                 
                 
                 // Description
+                Group {
+                    HeadingView(headingImage: "info.circle", headingText: "All about the \(insect.name)")
+                    
+                    Text(insect.description)
+                        .multilineTextAlignment(.leading)
+                        .layoutPriority(1)
+                }
+                
+                .padding(.horizontal)
+                
+                
                 // Map
+                
+                Group{
+                    HeadingView(headingImage: "map", headingText: "National Parks")
+                    InsetMapView()
+                }
+                
+                .padding(.horizontal)
+                
                 // Link
+                Group {
+                    HeadingView(headingImage: "books.vertical", headingText: "Let's learn a little bit more!")
+                    ExternalWebLinkView(insect: insect)
+                    
+                }
+                
+                .padding(.horizontal)
+                
             } // Vstack
             
             .navigationBarTitle("Lear more about \(insect.name)",
