@@ -1,44 +1,72 @@
 [
   {
-    "id" : "serengeti",
-    "name" : "Serengeti National Park",
-    "image" : "map-serengeti",
-    "latitude" : -2.3333333,
-    "longitude" : 34.8333333
+    "id" : "zion",
+    "name" : "Zion National Park",
+    "image" : "ant_1",
+    "latitude" : 37.2982,
+    "longitude" : -113.0263
   },
   {
-    "id" : "kruger",
-    "name" : "Kruger National Park",
-    "image" : "map-kruger",
-    "latitude" : -23.9883848,
-    "longitude" : 31.5525515
+    "id" : "yosemite",
+    "name" : "Yosemite National Park",
+    "image" : "bee_1",
+    "latitude" : 37.8651,
+    "longitude" : -119.5383
   },
   {
-    "id" : "chobe",
-    "name" : "Chobe National Park",
-    "image" : "map-chobe",
-    "latitude" : -18.7305642,
-    "longitude" : 24.4292148
+    "id" : "sequoia",
+    "name" : "Sequoia National Park",
+    "image" : "Beetles_1",
+    "latitude" : 36.5755,
+    "longitude" : -118.774821
   },
   {
-    "id" : "kidepo",
-    "name" : "Kidepo Valley National Park",
-    "image" : "map-kidepo",
-    "latitude" : 3.8495757,
-    "longitude" : 33.7525049
+    "id" : "joshua",
+    "name" : "Joshua Tree National Park",
+    "image" : "Centipedes_1",
+    "latitude" : 34.134728,
+    "longitude" : -116.313066
   },
   {
-    "id" : "etosha",
-    "name" : "Etosha National Park",
-    "image" : "map-etosha",
-    "latitude" : -18.8555909,
-    "longitude" : 16.327131
+    "id" : "yellowstone",
+    "name" : "YellowStone National Park",
+    "image" : "Cicadas_1",
+    "latitude" : 44.427963,
+    "longitude" : -110.58845500000001
   },
   {
-    "id" : "solonga",
-    "name" : "Solonga National Park",
+    "id" : "mariposa",
+    "name" : "Mariposa Grove National Park",
     "image" : "map-solonga",
-    "latitude" : -1.9999932,
-    "longitude" : 21.0002492
+    "latitude" : 37.5135779,
+    "longitude" : -119.5989778
+  },
+  {
+    "id" : "Sierra",
+    "name" : "Sierra Nevada National Park",
+    "image" : "cricket_1",
+    "latitude" : 36.5785462,
+    "longitude" : -118.2934244
+  },
+  {
+    "id" : "capitan",
+    "name" : "El Capitan National Park",
+    "image" : "Mosquitos_1",
+    "latitude" : 32.9347709,
+    "longitude" : 116.7736342
+  },
+  {
+    "id" : "mirror",
+    "name" : "Mirror Lake",
+    "image" : "spider_1",
+    "latitude" : -110.888453,
+    "longitude" : 40.704380
+  },
+  {
+    "id" : "kings",
+    "name" : "Kings Canyon National Park",
+    "image" : "Ticks_1",
+    "latitude" : -118.555145,
+    "longitude" : 36.887856
   }
 ]
