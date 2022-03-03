@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct AnimalListItemView: View {
+struct InsectListItemView: View {
     
   // Properties
     
@@ -44,10 +44,10 @@ struct AnimalListItemView: View {
 }
 // MARK: - PREVIEW
 
-struct AnimalListItemView_Previews: PreviewProvider {
+struct InsectListItemView_Previews: PreviewProvider {
     static let insects: [Insect] = Bundle.main.decode("insects.json")
     static var previews: some View {
-        AnimalListItemView(insect: insects[1])
+        InsectListItemView(insect: insects[1])
             .previewLayout(.sizeThatFits)
             .padding()
     }

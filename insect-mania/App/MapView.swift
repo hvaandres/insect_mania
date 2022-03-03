@@ -14,7 +14,7 @@ struct MapView: View {
     @State private var region: MKCoordinateRegion = {
         var mapCoordinates = CLLocationCoordinate2D(latitude: 52.3500, longitude: -115.5706)
         
-        var mapZoomLevel = MKCoordinateSpan(latitudeDelta: 70.0, longitudeDelta: 70.0)
+        var mapZoomLevel = MKCoordinateSpan(latitudeDelta: 80.0, longitudeDelta: 80.0)
         var mapRegion = MKCoordinateRegion(center: mapCoordinates, span: mapZoomLevel)
         
         return mapRegion
